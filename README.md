@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @natlogica
 - 👀 I’m interested in game and web development
-- 🌱 I’m currently refreshing my knowledge of frontend web dev
+- 🌱 I’m currently learning Python
 
 
 <!---
